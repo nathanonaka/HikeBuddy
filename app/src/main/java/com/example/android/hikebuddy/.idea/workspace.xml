@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a7747c2-27a2-4490-bc56-180d8ba17344" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy-Resource/app/src/main/res/values-en-rUS/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy-Resource/app/src/main/res/values-en-rUS/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy-Resource/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy-Resource/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/java/com/example/android/hikebuddy/DetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/java/com/example/android/hikebuddy/Hike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/java/com/example/android/hikebuddy/HikeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/java/com/example/android/hikebuddy/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/ic_reset.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_badminton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_baseball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_basketball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_bowling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_cycling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_golf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_running.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_soccer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_swimming.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_tabletennis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/drawable/img_tennis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/layout/activity_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/layout/list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../HikeBuddy/settings.gradle" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hike.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1586#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="230" />
+    <option name="y" value="105" />
+    <option name="width" value="3500" />
+    <option name="height" value="1960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a7747c2-27a2-4490-bc56-180d8ba17344" name="Default Changelist" comment="" />
+      <created>1583018048385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583018048385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="92" y="42" width="1400" height="784" extended-state="0" />
+    <layout>
+      <window_info id="UI Designer" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3353204" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Ant Build" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

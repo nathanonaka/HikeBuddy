@@ -1,0 +1,4 @@
+#Sat Feb 29 15:31:02 HST 2020
+base.0=C\:\\Users\\nateo\\Desktop\\HikeBuddy\\HikeBuddy\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
